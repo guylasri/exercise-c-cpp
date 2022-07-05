@@ -1,4 +1,4 @@
-Reverse bits of a given 32 bits unsigned integer.
+Easy: Reverse bits of a given 32 bits unsigned integer.
 
 Example 1:
 
