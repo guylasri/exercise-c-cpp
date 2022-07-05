@@ -2,6 +2,9 @@
 #include <stdio.h>
 #include <stdint.h>
 
+// Description: Reverse bits of a given 32 bits unsigned integer.
+// example: Input: n = 00000010100101000001111010011100
+//          Output:    964176192 (00111001011110000010100101000000)
 
 uint32_t reverseBits(uint32_t n)
 {
